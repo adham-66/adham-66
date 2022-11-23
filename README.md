@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adhamhewalla66@gmail.com**
 
-- ⚡ Fun fact **I love to playing games and benefit others**
+- ⚡ Fun fact **I love to play games and benefit others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
