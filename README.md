@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adham</h1>
+<h1 >Hi 👋, I'm Adham</h1>
 <h3 align="center">I am Jr Full-Stack Engineer</h3>
 
 - 🌱 I’m currently learning more about **Containerization & Docker**
